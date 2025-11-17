@@ -1,4 +1,4 @@
-# Wormcrypt
+# Wormycrypt
 Increase confidence that the file sent through wormhole was untouched
 
 ## Dependencies
